@@ -5,5 +5,4 @@
 - 💥 Check out my [portfolio](https://trevorwallis.dev/) 
 - 🧐 And, of course, test out some of my projects!
   - 🍔 [PickMyMeals](https://pickmymeals.herokuapp.com/): A meal planning app for people who never know what they want for dinner.
-  - ⏱ [Simple (but effective) stopwatch](https://trevorwallis13.github.io/stopwatch/): Track your track laps.
-  - ✅ [Yet another to-do list](https://trevorwallis13.github.io/js-to-do-list/): Because you have to have one, right?
+  - ⏱ [Squordle](https://squordle.co/): A Pokemon-themed Wordle. Gotta Guess 'em All!
